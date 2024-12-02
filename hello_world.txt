@@ -1,2 +1,2 @@
 "This is a new file."
-What's up with the changes?
+"What's up with the changes?"
